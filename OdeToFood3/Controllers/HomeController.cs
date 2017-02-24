@@ -31,6 +31,7 @@ namespace OdeToFood3.Controllers
             return View(model);
         }
 
+
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
