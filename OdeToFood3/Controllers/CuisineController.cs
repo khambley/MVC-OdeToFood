@@ -8,7 +8,7 @@ using System.Web.Mvc;
 namespace OdeToFood3.Controllers
 {   
     //[Authorize] //Action filters can also be placed on controllers as well as methods
-    [Log]
+    //[Log]
     public class CuisineController : Controller
     {
         // GET: Cuisine
